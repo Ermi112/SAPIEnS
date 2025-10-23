@@ -1,4 +1,4 @@
-# SAPIEnS##  Hi, I'm Ermiyas!
+##  Hi, I'm Ermiyas!
 
 
 ## 🗂️ My MultiTest Projects
